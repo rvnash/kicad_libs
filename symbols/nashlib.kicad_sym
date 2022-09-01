@@ -122,94 +122,6 @@
       )
       (polyline
         (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 22.86 10.16)
-          (xy 22.86 10.16)
-        )
-        (stroke (width 1) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy 2.1536 0.042)
           (xy 1.0106 0.042)
           (xy 1.0614 0.0674)
@@ -284,10 +196,6 @@
         (fill (type none))
       )
       (arc (start 15.24 -2.54) (mid 15.24 -2.54) (end 15.24 -2.54)
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (rectangle (start 19.5344 -1.4272) (end 19.5344 -1.4272)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
       )
