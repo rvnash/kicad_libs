@@ -1,2 +1,3 @@
 3rdparty
 *.bak
+.DS_Store
